@@ -1,2 +1,2 @@
 # Leetcode
-This will be a rep containing the Leetcode problem solution
+This will be a repo containing the Leetcode problem solutions.

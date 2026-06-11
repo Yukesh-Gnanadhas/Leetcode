@@ -7,3 +7,8 @@ class Solution:
         t.sort()
         return s == t
         
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        # using sorted method
+        return sorted(s) == sorted(t)
+   
